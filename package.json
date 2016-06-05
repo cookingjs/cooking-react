@@ -1,0 +1,25 @@
+{
+  "name": "cooking-react",
+  "version": "0.0.0",
+  "description": "A cooking plugin.",
+  "keywords": [
+    "cooking"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookingjs/cooking-react.git"
+  },
+  "homepage": "https://github.com/cookingjs/cooking-react#readme",
+  "bugs": {
+    "url": "https://github.com/cookingjs/cooking-react/issues"
+  },
+  "author": "qingwei-li<cinwell.li@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "eslint-plugin-react": "^5.1.1"
+  }
+}
